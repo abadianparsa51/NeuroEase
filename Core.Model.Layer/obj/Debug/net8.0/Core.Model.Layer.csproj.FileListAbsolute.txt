@@ -1,0 +1,37 @@
+C:\Users\Administrator\Desktop\NeuroEase\NeuroEase-0.0.1\Core.Model.Layer\bin\Debug\net8.0\Core.Model.Layer.deps.json
+C:\Users\Administrator\Desktop\NeuroEase\NeuroEase-0.0.1\Core.Model.Layer\bin\Debug\net8.0\Core.Model.Layer.dll
+C:\Users\Administrator\Desktop\NeuroEase\NeuroEase-0.0.1\Core.Model.Layer\bin\Debug\net8.0\Core.Model.Layer.pdb
+C:\Users\Administrator\Desktop\NeuroEase\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\NeuroEase\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\NeuroEase\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\NeuroEase\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\NeuroEase\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\NeuroEase\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.dll
+C:\Users\Administrator\Desktop\NeuroEase\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\refint\Core.Model.Layer.dll
+C:\Users\Administrator\Desktop\NeuroEase\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.pdb
+C:\Users\Administrator\Desktop\NeuroEase\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\ref\Core.Model.Layer.dll
+C:\Users\ParsaAbdn\Desktop\NeuroEase-0.0.1\Core.Model.Layer\bin\Debug\net8.0\Core.Model.Layer.deps.json
+C:\Users\ParsaAbdn\Desktop\NeuroEase-0.0.1\Core.Model.Layer\bin\Debug\net8.0\Core.Model.Layer.dll
+C:\Users\ParsaAbdn\Desktop\NeuroEase-0.0.1\Core.Model.Layer\bin\Debug\net8.0\Core.Model.Layer.pdb
+C:\Users\ParsaAbdn\Desktop\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.csproj.AssemblyReference.cache
+C:\Users\ParsaAbdn\Desktop\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParsaAbdn\Desktop\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.AssemblyInfoInputs.cache
+C:\Users\ParsaAbdn\Desktop\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.AssemblyInfo.cs
+C:\Users\ParsaAbdn\Desktop\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.csproj.CoreCompileInputs.cache
+C:\Users\ParsaAbdn\Desktop\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.dll
+C:\Users\ParsaAbdn\Desktop\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\refint\Core.Model.Layer.dll
+C:\Users\ParsaAbdn\Desktop\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.pdb
+C:\Users\ParsaAbdn\Desktop\NeuroEase-0.0.1\Core.Model.Layer\obj\Debug\net8.0\ref\Core.Model.Layer.dll
+C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\bin\Debug\net8.0\Core.Model.Layer.deps.json
+C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\bin\Debug\net8.0\Core.Model.Layer.dll
+C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\bin\Debug\net8.0\Core.Model.Layer.pdb
+C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.csproj.AssemblyReference.cache
+C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.AssemblyInfoInputs.cache
+C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.AssemblyInfo.cs
+C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.csproj.CoreCompileInputs.cache
+C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.sourcelink.json
+C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.dll
+C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\obj\Debug\net8.0\refint\Core.Model.Layer.dll
+C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.pdb
+C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\obj\Debug\net8.0\ref\Core.Model.Layer.dll
