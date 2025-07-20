@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ParsaAbdn\\Desktop\\New folder\\Core.Model.Layer\\Core.Model.Layer.csproj": {}
+    "C:\\Users\\kasra\\Source\\Repos\\NeuroEase\\Core.Model.Layer\\Core.Model.Layer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ParsaAbdn\\Desktop\\New folder\\Core.Model.Layer\\Core.Model.Layer.csproj": {
+    "C:\\Users\\kasra\\Source\\Repos\\NeuroEase\\Core.Model.Layer\\Core.Model.Layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ParsaAbdn\\Desktop\\New folder\\Core.Model.Layer\\Core.Model.Layer.csproj",
+        "projectUniqueName": "C:\\Users\\kasra\\Source\\Repos\\NeuroEase\\Core.Model.Layer\\Core.Model.Layer.csproj",
         "projectName": "Core.Model.Layer",
-        "projectPath": "C:\\Users\\ParsaAbdn\\Desktop\\New folder\\Core.Model.Layer\\Core.Model.Layer.csproj",
-        "packagesPath": "C:\\Users\\ParsaAbdn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ParsaAbdn\\Desktop\\New folder\\Core.Model.Layer\\obj\\",
+        "projectPath": "C:\\Users\\kasra\\Source\\Repos\\NeuroEase\\Core.Model.Layer\\Core.Model.Layer.csproj",
+        "packagesPath": "C:\\Users\\kasra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kasra\\Source\\Repos\\NeuroEase\\Core.Model.Layer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ParsaAbdn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kasra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,11 +52,11 @@
           "dependencies": {
             "Microsoft.Extensions.Identity.Core": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[9.0.7, )"
             },
             "Microsoft.Extensions.Identity.Stores": {
               "target": "Package",
-              "version": "[8.0.8, )"
+              "version": "[9.0.7, )"
             }
           },
           "imports": [
@@ -76,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

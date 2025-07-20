@@ -56,3 +56,23 @@ C:\Users\ParsaAbdn\Desktop\New folder\Core.Layer\obj\Debug\net8.0\refint\Core.La
 C:\Users\ParsaAbdn\Desktop\New folder\Core.Layer\obj\Debug\net8.0\Core.Layer.pdb
 C:\Users\ParsaAbdn\Desktop\New folder\Core.Layer\obj\Debug\net8.0\Core.Layer.genruntimeconfig.cache
 C:\Users\ParsaAbdn\Desktop\New folder\Core.Layer\obj\Debug\net8.0\ref\Core.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\bin\Debug\net8.0\Application.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\bin\Debug\net8.0\Core.Model.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\bin\Debug\net8.0\Core.Model.Layer.pdb
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\bin\Debug\net8.0\Application.Layer.pdb
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\obj\Debug\net8.0\Core.Layer.csproj.AssemblyReference.cache
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\obj\Debug\net8.0\Core.Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\obj\Debug\net8.0\Core.Layer.AssemblyInfoInputs.cache
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\obj\Debug\net8.0\Core.Layer.AssemblyInfo.cs
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\obj\Debug\net8.0\Core.Layer.csproj.CoreCompileInputs.cache
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\obj\Debug\net8.0\Core.Layer.sourcelink.json
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\obj\Debug\net8.0\Core.Layer.csproj.Up2Date
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\obj\Debug\net8.0\Core.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\obj\Debug\net8.0\refint\Core.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\obj\Debug\net8.0\Core.Layer.pdb
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\bin\Debug\net8.0\Core.Layer.deps.json
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\bin\Debug\net8.0\Core.Layer.runtimeconfig.json
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\bin\Debug\net8.0\Core.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\bin\Debug\net8.0\Core.Layer.pdb
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\obj\Debug\net8.0\Core.Layer.genruntimeconfig.cache
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Layer\obj\Debug\net8.0\ref\Core.Layer.dll

@@ -55,7 +55,8 @@ namespace Core.Layer.Handlers
                     Result = true,
                     Success = true,
                     Message = "ورود موفقیت‌آمیز بود",
-                    Token = token
+                    Token = token,
+                    UserId = user.Id
                 };
             }
 

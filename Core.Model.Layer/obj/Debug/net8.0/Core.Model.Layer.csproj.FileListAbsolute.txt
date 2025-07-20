@@ -35,3 +35,16 @@ C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\obj\Debug\net8.0\Core.Mod
 C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\obj\Debug\net8.0\refint\Core.Model.Layer.dll
 C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.pdb
 C:\Users\ParsaAbdn\Desktop\New folder\Core.Model.Layer\obj\Debug\net8.0\ref\Core.Model.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Model.Layer\bin\Debug\net8.0\Core.Model.Layer.deps.json
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Model.Layer\bin\Debug\net8.0\Core.Model.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Model.Layer\bin\Debug\net8.0\Core.Model.Layer.pdb
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.csproj.AssemblyReference.cache
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.AssemblyInfoInputs.cache
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.AssemblyInfo.cs
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.csproj.CoreCompileInputs.cache
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.sourcelink.json
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Model.Layer\obj\Debug\net8.0\refint\Core.Model.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Model.Layer\obj\Debug\net8.0\Core.Model.Layer.pdb
+C:\Users\kasra\Source\Repos\NeuroEase\Core.Model.Layer\obj\Debug\net8.0\ref\Core.Model.Layer.dll

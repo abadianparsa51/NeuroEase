@@ -14,5 +14,6 @@ namespace Application.Layer.Authontication.Dto
         [Required]
         public string Password { get; set; } = "";
         public string PhoneNumber { get; set; } = "";
+
     }
 }
