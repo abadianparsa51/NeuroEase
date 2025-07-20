@@ -42,7 +42,7 @@ namespace Core.Layer.Repository
                     PhoneNumber = user.PhoneNumber,
                     Result = true,
                     Success = true,
-                    Message = "ثبت‌نام با موفقیت انجام شد"
+                    Message = "ثبت‌نام با موفقیت انجام شد",
                 };
             }
 
@@ -77,7 +77,7 @@ namespace Core.Layer.Repository
                     Result = true,
                     Success = true,
                     Message = "ورود موفقیت‌آمیز بود",
-                    Token = token
+                    Token = token,
                 };
             }
 

@@ -44,3 +44,19 @@ C:\Users\ParsaAbdn\Desktop\New folder\Application.Layer\obj\Debug\net8.0\Applica
 C:\Users\ParsaAbdn\Desktop\New folder\Application.Layer\obj\Debug\net8.0\refint\Application.Layer.dll
 C:\Users\ParsaAbdn\Desktop\New folder\Application.Layer\obj\Debug\net8.0\Application.Layer.pdb
 C:\Users\ParsaAbdn\Desktop\New folder\Application.Layer\obj\Debug\net8.0\ref\Application.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\bin\Debug\net8.0\Application.Layer.deps.json
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\bin\Debug\net8.0\Application.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\bin\Debug\net8.0\Application.Layer.pdb
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\bin\Debug\net8.0\Core.Model.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\bin\Debug\net8.0\Core.Model.Layer.pdb
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\obj\Debug\net8.0\Application.Layer.csproj.AssemblyReference.cache
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\obj\Debug\net8.0\Application.Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\obj\Debug\net8.0\Application.Layer.AssemblyInfoInputs.cache
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\obj\Debug\net8.0\Application.Layer.AssemblyInfo.cs
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\obj\Debug\net8.0\Application.Layer.csproj.CoreCompileInputs.cache
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\obj\Debug\net8.0\Application.Layer.sourcelink.json
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\obj\Debug\net8.0\Applicat.708EF9A1.Up2Date
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\obj\Debug\net8.0\Application.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\obj\Debug\net8.0\refint\Application.Layer.dll
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\obj\Debug\net8.0\Application.Layer.pdb
+C:\Users\kasra\Source\Repos\NeuroEase\Application.Layer\obj\Debug\net8.0\ref\Application.Layer.dll
